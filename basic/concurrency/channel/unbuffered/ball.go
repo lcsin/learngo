@@ -1,11 +1,14 @@
 /*
+make(chan int):
+	1. 创建一个没有缓存的channel
+	2. 直接往没有缓存的channel中塞值时,会引发阻塞
 value, ok := <-ch:
 	1. 从chan中获取值,返回值为value, bool
 	2. 当chan被关闭时,bool返回false
 	3. 当chan中暂时没有值时,unbuffered chan会阻塞,直到chan中有值
 ch <- value:
 	1. 把值存储到chan中
-	2. 当chan中有值,但是没有被goroutine接收时,程序会处于阻塞状态
+	2. 当unbuffered chan中有值,但是没有被goroutine接收时,程序会处于阻塞状态
 */
 package main
 
