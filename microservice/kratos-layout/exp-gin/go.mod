@@ -1,9 +1,9 @@
-
 module exp-gin
 
 go 1.16
 
 require (
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-gonic/gin v1.7.4
 	github.com/go-kratos/gin v0.1.0
 	github.com/go-kratos/kratos/v2 v2.1.1

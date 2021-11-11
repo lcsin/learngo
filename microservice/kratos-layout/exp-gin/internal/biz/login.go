@@ -2,6 +2,7 @@ package biz
 
 import (
 	"database/sql"
+	"exp-gin/internal/tool"
 	"github.com/gin-gonic/gin"
 	"github.com/go-kratos/kratos/v2/log"
 	"net/http"
@@ -26,46 +27,37 @@ func (lu *LoginUsecase) Login() func(ctx *gin.Context) {
 		err := ctx.BindJSON(&user)
 		if err != nil {
 			lu.log.Errorf("invalid param: %v", err)
-			ctx.JSON(http.StatusOK, gin.H{
-				"code": http.StatusInternalServerError,
-				"msg":  "数据格式错误",
-				"data": nil,
-			})
+			tool.Error(ctx, http.StatusInternalServerError, "参数有误")
 			return
 		}
 
 		dbUser, err := lu.repo.Login(user.Nickname)
 		switch {
 		case err == sql.ErrNoRows:
-			ctx.JSON(http.StatusOK, gin.H{
-				"code": http.StatusOK,
-				"msg":  "用户名或密码错误",
-				"data": nil,
-			})
+			tool.Error(ctx, http.StatusNotFound, "用户名或密码错误")
 			return
 		case err != nil:
 			lu.log.Errorf("get user failed: %v", err)
-			ctx.JSON(http.StatusOK, gin.H{
-				"code": http.StatusInternalServerError,
-				"msg":  "系统异常",
-				"data": nil,
-			})
+			tool.Error(ctx, http.StatusInternalServerError, "系统异常")
 			return
 		}
 
 		if dbUser.Password != user.Password {
-			ctx.JSON(http.StatusOK, gin.H{
-				"code": http.StatusOK,
-				"msg":  "用户名或密码错误",
-				"data": nil,
-			})
+			tool.Error(ctx, http.StatusNotFound, "用户名或密码错误")
 			return
 		}
 
-		ctx.JSON(http.StatusOK, gin.H{
-			"code": http.StatusOK,
-			"msg":  "登录成功",
-			"data": nil,
-		})
+		claims := tool.MyClaims{
+			ID:       dbUser.ID,
+			Username: dbUser.Username,
+			Nickname: dbUser.Nickname,
+		}
+		token, err := tool.GenToken(claims)
+		if err != nil {
+			lu.log.Errorf("cannot generate jwt, err:", err)
+			tool.Error(ctx, http.StatusInternalServerError, "系统异常")
+		}
+
+		tool.OK(ctx, token, "登录成功")
 	}
 }
