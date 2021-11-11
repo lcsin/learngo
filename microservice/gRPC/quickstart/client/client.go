@@ -14,11 +14,12 @@ import (
 4. 获取返回值
 */
 func main() {
-	conn, err := grpc.Dial("localhost:8888", grpc.WithInsecure())
+	conn, err := grpc.Dial("localhost:8000", grpc.WithInsecure())
 	if err != nil {
 		fmt.Println("create connection failed,err:", err)
 	}
 	defer conn.Close()
+
 	client := hello.NewHelloGRPCClient(conn)
 	reply, err := client.SayHello(context.Background(), &hello.HelloRequest{Message: "give me five"})
 	if err != nil {
