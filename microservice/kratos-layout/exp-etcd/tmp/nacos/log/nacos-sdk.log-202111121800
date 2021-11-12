@@ -1,0 +1,85 @@
+2021-11-12T18:22:29.014+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-12T18:22:29.021+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:22:29.031+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:23:30.529+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-12T18:23:30.535+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:23:30.546+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:24:00.050+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:24:00.060+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:24:29.566+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:24:29.577+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:24:59.083+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:24:59.094+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:25:28.601+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:25:28.611+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:25:58.117+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:25:58.129+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:26:27.634+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:26:27.645+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:26:57.150+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:26:57.160+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:27:26.664+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:27:26.675+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:27:56.181+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:27:56.192+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:28:25.697+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:28:25.707+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:28:55.212+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:28:55.223+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:29:24.727+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:29:24.739+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:29:54.244+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:29:54.254+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:30:23.759+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:30:23.769+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:30:53.274+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:30:53.285+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:31:22.796+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:31:22.806+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:31:52.311+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:31:52.322+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:32:21.827+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:32:21.838+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:32:51.343+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:32:51.354+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:33:20.859+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:33:20.870+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:33:50.375+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:33:50.387+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:34:19.891+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:34:19.901+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:34:49.405+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:34:49.417+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:35:18.922+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:35:18.933+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T18:35:48.437+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T18:35:48.448+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Exp-KratosDEFAULT_GROUP698c2a7254af07f24c1db3eb016582734374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+

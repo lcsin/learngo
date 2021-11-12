@@ -1,0 +1,47 @@
+2021-11-12T16:30:45.597+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-12T16:30:45.622+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:30:45.634+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:31:15.188+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:31:15.200+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:31:44.706+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:31:44.716+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:32:14.223+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:32:14.234+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:32:43.741+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:32:43.751+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:33:13.259+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:33:13.271+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:33:42.777+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:33:42.788+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:34:12.295+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:34:12.305+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:34:41.813+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:34:41.824+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:35:11.332+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:35:11.342+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:35:40.849+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:35:40.861+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:36:10.367+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:36:10.378+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:36:39.884+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:36:39.895+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:37:09.402+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:37:09.412+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-12T16:37:38.918+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-12T16:37:38.930+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:MYSQL_KRATOSMYSQL_GROUP1c69fe0104b03702f5ad2d03a88f2f104374ed86-5b2d-4a3c-8c8e-f00ce2029eed tenant:4374ed86-5b2d-4a3c-8c8e-f00ce2029eed] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
