@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
+	hello "gihub.com/lcsin/learngo/cncf/gRPC/quickstart/pb"
 	"google.golang.org/grpc"
-	hello "learngo/microservice/gRPC/quickstart/pb"
 )
 
 /*
@@ -14,7 +14,7 @@ import (
 4. 获取返回值
 */
 func main() {
-	conn, err := grpc.Dial("localhost:8000", grpc.WithInsecure())
+	conn, err := grpc.Dial("localhost:8888", grpc.WithInsecure())
 	if err != nil {
 		fmt.Println("create connection failed,err:", err)
 	}

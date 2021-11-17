@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
+	hello "gihub.com/lcsin/learngo/cncf/gRPC/quickstart/pb"
 	"google.golang.org/grpc"
-	hello "learngo/microservice/gRPC/quickstart/pb"
 	"net"
 )
 

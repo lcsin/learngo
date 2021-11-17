@@ -15,3 +15,5 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+/microservice/kratos-layout/exp-yoka/tmp/
+/microservice/kratos-layout/exp-nacos/tmp/
